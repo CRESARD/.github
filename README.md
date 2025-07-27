@@ -1,1 +1,1 @@
-# Cloud-Based reliable Software Applications and Resource Development
+# Cloud-based Reliable Software Applications and Resource Development
